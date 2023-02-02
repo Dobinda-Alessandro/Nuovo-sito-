@@ -1,2 +1,18 @@
+.container {
+position: relative;
+left: 650px;
 
-    
+
+}
+
+.posizione {
+    position:relative;
+    text-align: center;
+    top: -120px;
+}
+
+.hr1  {
+    position:relative;
+    top: -45px; 
+}
+
